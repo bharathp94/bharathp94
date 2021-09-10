@@ -13,7 +13,7 @@ I am a Software Engineer from India, High level expertise in Software Developmen
   
 <!-- CONNECT : START --> 
 ### Connect with me:
-#[<img align="left" alt="bharathprakash.com" width="22px" src="https://icons.getbootstrap.com/assets/icons/globe.svg" />][website]
+<!-- [<img align="left" alt="bharathprakash.com" width="22px" src="https://icons.getbootstrap.com/assets/icons/globe.svg" />][website] -->
 [<img align="left" alt="Bharath Prakash | LinkedIn" width="22px" src="https://icons.getbootstrap.com/assets/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Bharath Prakash | Github" width="22px" src="https://icons.getbootstrap.com/assets/icons/github.svg" />][github]
 
