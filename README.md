@@ -8,7 +8,7 @@ I am a Software Engineer from India, High level expertise in Software Developmen
 - 🌱 I’m currently diving deep into Angular, Kubernetes, OpenShift, etc(DevOps Tools)
 - 👨‍💻 I’m looking to collaborate on backend engineering projects
 - 📚 Ask me about full stack development(java, html, spring boot, javascript, Kafka).
-- ⚡ Fun fact: Chess, Badminton, 
+- ⚡ Fun fact: Chess, Badminton
 <!-- ABOUT : END -->
   
 <!-- CONNECT : START --> 
